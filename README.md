@@ -19,9 +19,9 @@ for(int i=0; i<n;i++){
 }
 
 ## 다음과 같은 양식은 금지합니다. 
-for(int i=0; i<n; i++)
-{
-
-}
+- for(int i=0; i<n; i++)
+- {
+- 
+- }
 
 isMyVariable
