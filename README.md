@@ -1,11 +1,12 @@
 # AssembleJava100
 - Java100문제풀기 날먹모임입니다.
   각조별로 맡은 문제들 알아서 나눠주시길 바라며 파일명은 다음과 같이 통일하겠습니다.
+- Java(ProblemNum).java 
 - 문제는 11월 20일까지 다 풀어주시길 바랍니다.
 - 홀수 짝수로 문제 푸는것을 나누며
 - T조는 짝수문제
 - H조는 홀수문제 푸시면 됩니다. 
-Java(ProblemNum).java 
+
 예시)
 Java1.java
 Java2.java
