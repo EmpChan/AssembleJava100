@@ -2,7 +2,7 @@ package practice;
 
 import java.util.Scanner;
 
-public class ava14 {
+public class Java14 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
