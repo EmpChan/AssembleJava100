@@ -2,7 +2,7 @@ package practice;
 
 import java.util.Scanner;
 
-public class java24 {
+public class Java24 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
