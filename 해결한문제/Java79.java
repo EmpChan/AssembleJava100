@@ -7,13 +7,12 @@ public class Main {
         String result = "";
         for(int i=0; i<str.length(); i++) {
             char c = str.charAt(i);
-            if(c>= 65 && c<=90) 
+            if(c>= 65 && c<=90) {
                 result += String.valueOf(c).toLowerCase();
-            }
-            else if(c>=97 && c<=122) 
+
+            }else if(c>=97 && c<=122) {
                 result += String.valueOf(c).toUpperCase();
-            }
-            else {
+            }else {
                 result += c;
             }
         }
