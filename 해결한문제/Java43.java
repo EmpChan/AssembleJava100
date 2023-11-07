@@ -36,7 +36,9 @@ public class  Java100{
                 case '9':
                     System.out.print("구");
                     break;
+                default: break;
             }
+            if(str.charAt(i)=='0') continue;
             switch(len-i){
                 case 5 :
                     System.out.print("만");
